@@ -29,3 +29,16 @@ this is a text
 |:-----|----:|:----:|
 |_Still_|`renders`|**nicely**|
 |1|2|3|}
+
+python code
+
+```
+s = "Python syntax highlighting"
+print s
+```
+
+javascript code
+```
+var s = "Javascript syntax highlighting"
+alert(s)
+```
